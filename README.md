@@ -18,7 +18,7 @@ A full-stack mini project management app with authentication, projects, and task
 ```bash
 cd backend
 cp .env.example .env
-# Edit .env if needed (MONGO_URI, JWT_SECRET, CLIENT_ORIGIN)
+# Edit .env  (PORT, MONGO_URI, JWT_SECRET, CLIENT_ORIGIN)
 npm install
 npm run dev
 ```
@@ -35,6 +35,7 @@ npm run dev
 ```
 
 Open `http://localhost:3000`.
+
 
 ---
 
