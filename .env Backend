@@ -1,0 +1,4 @@
+PORT=ANY_PORT
+MONGO_URI=MONGO_URI=mongodb+srv://myUser123:myPassword123@mycluster.abcde.mongodb.net/myDatabase?retryWrites=true&w=majority&appName=Mycluster
+JWT_SECRET=ANY_SECRET
+CLIENT_ORIGIN=http://localhost:3000
